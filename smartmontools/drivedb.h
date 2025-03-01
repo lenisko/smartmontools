@@ -6492,7 +6492,7 @@ const drive_settings builtin_knowndrives[] = {
     "-d sat"
   },
   // ASMedia
-  { "USB: ; ASMedia ASM236x", // USB->PCIe (NVMe)
+  { "USB: ; ASMedia ASM236x ; ASMedia NVMe Bridge", // USB->PCIe (NVMe)
     "0x174c:0x236[24]",
     "",
     "",
